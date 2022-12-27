@@ -1,4 +1,4 @@
-# Google Case Study on Cyclistc
+# Google Case Study on Cyclistic
 
 ## Introduction
 
